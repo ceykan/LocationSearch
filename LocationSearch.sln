@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationSearch", "LocationSearch\LocationSearch.csproj", "{3318853C-02CD-4B04-9950-1162B9C1E60D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationSearchTest", "LocationSearchTest\LocationSearchTest.csproj", "{7B75870B-E470-487E-8461-BEE15BDEE0E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3318853C-02CD-4B04-9950-1162B9C1E60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3318853C-02CD-4B04-9950-1162B9C1E60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3318853C-02CD-4B04-9950-1162B9C1E60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3318853C-02CD-4B04-9950-1162B9C1E60D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B75870B-E470-487E-8461-BEE15BDEE0E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B75870B-E470-487E-8461-BEE15BDEE0E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B75870B-E470-487E-8461-BEE15BDEE0E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B75870B-E470-487E-8461-BEE15BDEE0E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

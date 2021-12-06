@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b9422ae7_002D9659_002D4d76_002D925d_002D0589532b35fa/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetLocationsTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7B75870B-E470-487E-8461-BEE15BDEE0E7::net5.0::LocationSearchTest.Tests.GetLocationsTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7B75870B-E470-487E-8461-BEE15BDEE0E7::net5.0::LocationSearchTest.Tests.GetLocationsNonResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7B75870B-E470-487E-8461-BEE15BDEE0E7::net5.0::LocationSearchTest.Tests.GetLocationsTestAscending&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7B75870B-E470-487E-8461-BEE15BDEE0E7::net5.0::LocationSearchTest.Tests.GetLocationsTestDescending&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7B75870B-E470-487E-8461-BEE15BDEE0E7::net5.0::LocationSearchTest.Tests.GetLocationsMaxDistanceNull&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7B75870B-E470-487E-8461-BEE15BDEE0E7::net5.0::LocationSearchTest.Tests.GetLocationsMaxDistanceNullDescending&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7B75870B-E470-487E-8461-BEE15BDEE0E7::net5.0::LocationSearchTest.Tests.GetLocationsMaxResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7B75870B-E470-487E-8461-BEE15BDEE0E7::net5.0::LocationSearchTest.Tests.GetLocationsTestLimitless&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7B75870B-E470-487E-8461-BEE15BDEE0E7::net5.0::LocationSearchTest.Tests.GetLocationsTestMaxDistance&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7B75870B-E470-487E-8461-BEE15BDEE0E7::net5.0::LocationSearchTest.Tests.GetLocationsTestMaxResult&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,12 @@
+C:\Users\ceykans\Documents\ceykan\LocationSearch\LocationSearch\bin\Debug\net5.0\LocationSearch.deps.json
+C:\Users\ceykans\Documents\ceykan\LocationSearch\LocationSearch\bin\Debug\net5.0\LocationSearch.dll
+C:\Users\ceykans\Documents\ceykan\LocationSearch\LocationSearch\bin\Debug\net5.0\ref\LocationSearch.dll
+C:\Users\ceykans\Documents\ceykan\LocationSearch\LocationSearch\bin\Debug\net5.0\LocationSearch.pdb
+C:\Users\ceykans\Documents\ceykan\LocationSearch\LocationSearch\obj\Debug\net5.0\LocationSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceykans\Documents\ceykan\LocationSearch\LocationSearch\obj\Debug\net5.0\LocationSearch.AssemblyInfoInputs.cache
+C:\Users\ceykans\Documents\ceykan\LocationSearch\LocationSearch\obj\Debug\net5.0\LocationSearch.AssemblyInfo.cs
+C:\Users\ceykans\Documents\ceykan\LocationSearch\LocationSearch\obj\Debug\net5.0\LocationSearch.csproj.CoreCompileInputs.cache
+C:\Users\ceykans\Documents\ceykan\LocationSearch\LocationSearch\obj\Debug\net5.0\LocationSearch.dll
+C:\Users\ceykans\Documents\ceykan\LocationSearch\LocationSearch\obj\Debug\net5.0\ref\LocationSearch.dll
+C:\Users\ceykans\Documents\ceykan\LocationSearch\LocationSearch\obj\Debug\net5.0\LocationSearch.pdb
+C:\Users\ceykans\Documents\ceykan\LocationSearch\LocationSearch\obj\Debug\net5.0\LocationSearch.csprojAssemblyReference.cache
